@@ -6,6 +6,6 @@ func HelloWorld() {
 	fmt.Println("Hello world Not")
 }
 
-func govno() {
+func Govno() {
 	fmt.Println("Renat pro")
 }
