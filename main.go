@@ -10,6 +10,6 @@ func Govno() {
 	fmt.Println("Renat pro")
 }
 
-func Renatos() {
+func dfsd() {
 	fmt.Println("Alesha popovich")
 }
