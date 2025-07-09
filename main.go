@@ -13,3 +13,5 @@ func Govno() {
 func dfsd() {
 	fmt.Println("Alesha popovich")
 }
+
+var renat string
