@@ -9,3 +9,7 @@ func HelloWorld() {
 func Govno() {
 	fmt.Println("Renat pro")
 }
+
+func Renatos() {
+	fmt.Println("Alesha popovich")
+}
